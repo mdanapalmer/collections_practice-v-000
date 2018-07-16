@@ -45,6 +45,7 @@ def add_s(array)
     word
   else 
     word + "s"
+    #why does word.join("s") not work here?
 end
 end
 end
