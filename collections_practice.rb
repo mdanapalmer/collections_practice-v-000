@@ -32,5 +32,6 @@ def find_a(array)
   array.select do |letter|
     letter.start_with?("a")
 end
+end
 
 
