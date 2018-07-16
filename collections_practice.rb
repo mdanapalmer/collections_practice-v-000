@@ -42,4 +42,3 @@ end
 def add_s(array)
   add_s.select { |word| word.join("s") !word[1]}
 end
-end
