@@ -46,3 +46,4 @@ def add_s(array)
   else 
     word.join("s")}
 end
+end
