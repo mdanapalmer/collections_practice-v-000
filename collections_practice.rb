@@ -29,4 +29,5 @@ def kesha_maker(array)
 end
 money_array
 end
+end
 
