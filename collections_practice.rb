@@ -39,7 +39,7 @@ def sum_array(array)
 end
 # What on earth I think I know how this works but I don't #know how to do it, I found this online.
 
-def add_s
+def add_s(array)
   add_s.collect do |word| 
   if array[1] == word
     word
