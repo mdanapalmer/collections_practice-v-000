@@ -44,7 +44,7 @@ def add_s(array)
   if array[1] == word
     word
   else 
-    word,join("s")
+    word.join("s")
 end
 end
 end
