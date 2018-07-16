@@ -24,7 +24,7 @@ array.reverse
 end
 
 def kesha_maker(array)
-  array.map do |x| x[2] == "#{$}"
+  array. do |x| x[2] == "#{$}"
 end
 money_array
 end
