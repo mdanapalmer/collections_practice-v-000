@@ -30,7 +30,7 @@ end
 
 def find_a(array)
   array.select do |letter|
-    letter.begin
+    letter
 end
 
 
