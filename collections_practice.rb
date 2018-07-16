@@ -40,4 +40,4 @@ end
 # What on earth I think I know how this works but I don't #know how to do it, I found this online.
 
 def add_s(array)
-  add_s.select { |word| 
+  add_s.select { |word| ![1].include? 
